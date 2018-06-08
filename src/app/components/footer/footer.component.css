@@ -1,0 +1,29 @@
+.foot-bg {
+  background-color: #484C54
+}
+
+.foot-txt-color{
+  color: #9B9C9F
+}
+
+.foot-header-txt-color{
+  color: white
+}
+
+.icon-size{
+
+  height:40px;
+  width:40px;
+}
+
+.horizontal{
+  float: left;
+}
+
+
+.page-footer{
+  bottom: 0;
+  left:0;
+  position: fixed;
+  width: 100%;
+}
